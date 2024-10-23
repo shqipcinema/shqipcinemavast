@@ -1,22 +1,20 @@
 <VAST version="3.0">
-  <Ad id="1">
-    <InLine>
-      <AdSystem>Shqip Cinema</AdSystem>
-      <AdTitle>Shqip Cinema</AdTitle>
-      <Creatives>
-        <Creative>
-          <Linear>
-            <Duration>00:00:08</Duration>
-            <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="600" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://shqipcinema.online/wp-content/uploads/2024/10/AD.mp4
-
-]]>
-              </MediaFile>
-            </MediaFiles>
-          </Linear>
-        </Creative>
-      </Creatives>
-    </InLine>
-  </Ad>
+  <Ad id="1">
+    <InLine>
+      <AdSystem>Shqip Cinema</AdSystem>
+      <AdTitle>Shqip Cinema Ad</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:08</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="600" scalable="true" maintainAspectRatio="true">
+                <![CDATA[https://shqipcinema.online/wp-content/uploads/2024/10/AD.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
 </VAST>
