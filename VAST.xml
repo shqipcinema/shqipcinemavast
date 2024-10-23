@@ -7,6 +7,28 @@
         <Creative>
           <Linear>
             <Duration>00:00:08</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[https://shqipcinema.online/tracking/start]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://shqipcinema.online/tracking/firstQuartile]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://shqipcinema.online/tracking/midpoint]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://shqipcinema.online/tracking/thirdQuartile]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://shqipcinema.online/tracking/complete]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://shqipcinema.online]]>
+              </ClickThrough>
+            </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="600" scalable="true" maintainAspectRatio="true">
                 <![CDATA[https://shqipcinema.online/wp-content/uploads/2024/10/AD.mp4]]>
